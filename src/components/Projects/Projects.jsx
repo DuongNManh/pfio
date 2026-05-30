@@ -50,7 +50,7 @@ function Projects() {
               imgPath={alohamarket}
               isBlog={false}
               title="Aloha Market"
-              description="Online marketplace platform for buying and selling second-hand items. Built with React for the frontend and ASP.NET Core for the backend, it offers a user-friendly interface, secure transactions, and efficient item management. The platform includes features such as user authentication, product listings, search functionality, and a messaging system for seamless communication between buyers and sellers."
+              description="Online marketplace platform for buying and selling second-hand items. Built with React for the frontend and ASP.NET Core for the backend. The platform includes features such as user authentication, product listings, search functionality, and a messaging system for seamless communication between buyers and sellers."
               ghLink="https://github.com/AlohaMarket"
               demoLink=""
             />
@@ -73,7 +73,7 @@ function Projects() {
               imgStyle={{ maxWidth: "150px", width: "70%", margin: "0 auto", display: "block" }}
               isBlog={false}
               title="TaskGenix"
-              description="Using 'Speech Recognition' for the detection user needs, convert to actionable notes and tasks. Enabled management in personal workspace and team workspace."
+              description="Using 'Speech To Text' for the detection user needs, convert to actionable notes and tasks. Enabled management in personal workspace and team workspace."
               ghLink="https://github.com/TaskGenix"
             // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
             />
@@ -84,7 +84,7 @@ function Projects() {
               imgPath={koiauction}
               isBlog={false}
               title="Koi Auction"
-              description="Online auction platform for buying and selling koi fish. Built with React for the frontend and Java Springboot for the backend, it offers a user-friendly interface, secure transactions, and efficient item management. The platform includes features such as user authentication, product listings, search functionality, and a bidding system for buyers and sellers."
+              description="Online auction platform for buying and selling koi fish. Built with React for the frontend and Java Springboot for the backend. The platform includes features such as user authentication, koi fish listings, search functionality, and a bidding system for bidders and sellers."
               ghLink="https://github.com/fkoi88"
               demoLink="https://kap-six.vercel.app/"
             />
